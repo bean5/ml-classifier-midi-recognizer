@@ -1,0 +1,237 @@
+Length/Noise: 30/60
+Total Tests: 37
+Total First Answer: 17
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 30/65
+Total Tests: 37
+Total First Answer: 17
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 30/70
+Total Tests: 37
+Total First Answer: 15
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 30/75
+Total Tests: 37
+Total First Answer: 17
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 30/80
+Total Tests: 37
+Total First Answer: 17
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 30/85
+Total Tests: 37
+Total First Answer: 15
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 24/60
+Total Tests: 37
+Total First Answer: 13
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 24/65
+Total Tests: 37
+Total First Answer: 13
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 24/70
+Total Tests: 37
+Total First Answer: 17
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 24/75
+Total Tests: 37
+Total First Answer: 15
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 24/80
+Total Tests: 37
+Total First Answer: 15
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 24/85
+Total Tests: 37
+Total First Answer: 14
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 18/60
+Total Tests: 37
+Total First Answer: 7
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 18/65
+Total Tests: 37
+Total First Answer: 8
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 18/70
+Total Tests: 37
+Total First Answer: 10
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 18/75
+Total Tests: 37
+Total First Answer: 12
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 18/80
+Total Tests: 37
+Total First Answer: 8
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 18/85
+Total Tests: 37
+Total First Answer: 12
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 12/60
+Total Tests: 37
+Total First Answer: 10
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 12/65
+Total Tests: 37
+Total First Answer: 6
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 12/70
+Total Tests: 37
+Total First Answer: 6
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 12/75
+Total Tests: 37
+Total First Answer: 7
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 12/80
+Total Tests: 37
+Total First Answer: 6
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 12/85
+Total Tests: 37
+Total First Answer: 6
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 6/60
+Total Tests: 37
+Total First Answer: 3
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 6/65
+Total Tests: 37
+Total First Answer: 3
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 6/70
+Total Tests: 37
+Total First Answer: 3
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 6/75
+Total Tests: 37
+Total First Answer: 3
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 6/80
+Total Tests: 37
+Total First Answer: 6
+Total Second Answer: 0
+Total Third Answer: 0
+
+
+
+Length/Noise: 6/85
+Total Tests: 37
+Total First Answer: 4
+Total Second Answer: 0
+Total Third Answer: 0
