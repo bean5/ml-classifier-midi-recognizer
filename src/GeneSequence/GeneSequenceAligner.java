@@ -1,6 +1,8 @@
-package project5midiAlignment;
+package GeneSequence;
 
 import java.util.HashMap;
+
+import project5midiAlignment.Score;
 
 import edu.byu.nlp.util.Pair;
 
@@ -23,7 +25,7 @@ public class GeneSequenceAligner<T> {
 	private final HashMap<GeneSequencerCell, Pair<GeneSequencerCell, Score>> alignmentMatrix = new HashMap<GeneSequencerCell, Pair<GeneSequencerCell, Score>>();
 	private final HashMap<Integer, HashMap<Integer, GeneSequencerCell>> cellCache = new HashMap<Integer, HashMap<Integer, GeneSequencerCell>>();
 
-	GeneSequenceAligner(int i, int r, int m) {
+	public GeneSequenceAligner(int i, int r, int m) {
 		indelCost = i;
 		replaceCost = r;
 		matchCost = m;

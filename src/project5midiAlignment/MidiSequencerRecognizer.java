@@ -14,6 +14,8 @@ import java.util.Random;
 
 import javax.sound.midi.InvalidMidiDataException;
 
+import GeneSequence.GeneSequenceAligner;
+
 import midiHelper.MidiFileFinder;
 import edu.byu.nlp.util.Counter;
 import edu.byu.nlp.util.DoubleCounter;

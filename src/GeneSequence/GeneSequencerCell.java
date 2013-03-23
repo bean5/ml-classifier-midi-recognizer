@@ -1,4 +1,4 @@
-package project5midiAlignment;
+package GeneSequence;
 
 import edu.byu.nlp.util.Pair;
 
